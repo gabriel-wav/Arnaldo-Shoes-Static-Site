@@ -1,34 +1,34 @@
-# Sapataria do Arnaldo
+# Arnaldo's Shoe Store
 
-Este é um projeto de front-end que simula um site estático para uma sapataria fictícia, a "Sapataria do Arnaldo". O projeto foi desenvolvido utilizando apenas HTML5 e CSS3 puros, com foco na estruturação semântica, componentização de estilos e responsividade.
+This is a front-end project that simulates a static website for a fictional shoe store, "Arnaldo's Shoe Store". The project was developed using only pure HTML5 and CSS3, with a focus on semantic structure, style componentization, and responsiveness.
 
-**🚀 Acesse a demonstração ao vivo:** [**https://gabriel-wav.github.io/sitesapatos/**](https://gabriel-wav.github.io/sitesapatos/)
+**🚀 Access the live demo:** [**https://gabriel-wav.github.io/sitesapatos/**](https://gabriel-wav.github.io/sitesapatos/)
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Features
 
-O site é composto por quatro páginas principais, cada uma com um propósito específico:
+The website is composed of four main pages, each with a specific purpose:
 
-* 🏠 **Página Inicial (`index.html`)**: Apresenta a marca com um banner de boas-vindas e uma seleção de produtos em destaque.
-* 🛒 **Página de Produtos (`produtos.html`)**: Exibe uma galeria extensa com todos os calçados disponíveis.
-* 📖 **Página Sobre (`sobre.html`)**: Fornece informações detalhadas sobre a história, missão e valores da empresa.
-* ✉️ **Página de Contato (`contatos.html`)**: Inclui um formulário de contato completo para os clientes.
+* 🏠 **Home Page (`index.html`)**: Presents the brand with a welcome banner and a selection of featured products.
+* 🛒 **Products Page (`produtos.html`)**: Displays an extensive gallery with all available footwear.
+* 📖 **About Page (`sobre.html`)**: Provides detailed information about the company's history, mission, and values.
+* ✉️ **Contact Page (`contatos.html`)**: Includes a complete contact form for customers.
 
-## 🔧 Tecnologias Utilizadas
+## 🔧 Technologies Used
 
-Este projeto foi construído do zero, sem o uso de frameworks CSS ou JavaScript, para focar nos fundamentos do desenvolvimento web.
+This project was built from scratch, without the use of CSS or JavaScript frameworks, to focus on the fundamentals of web development.
 
-* **HTML5**: Utilizado para a marcação e estruturação semântica de todo o conteúdo.
+* **HTML5**: Used for the markup and semantic structuring of all content.
 * **CSS3**:
-    * **Flexbox** para a criação da maioria dos layouts responsivos.
-    * Estilos componentizados e reutilizáveis.
-    * Media queries para garantir a adaptabilidade do site.
-* **CSS Reset**: Utilizado para anular os estilos padrão do navegador e garantir consistência.
+    * **Flexbox** for creating most of the responsive layouts.
+    * Componentized and reusable styles.
+    * Media queries to ensure site adaptability.
+* **CSS Reset**: Used to override default browser styles and ensure consistency.
 
-## 📁 Estrutura do Projeto
+## 📁 Project Structure
 
-A organização dos arquivos segue uma abordagem simples e direta, ideal para projetos estáticos.
+The file organization follows a simple and straightforward approach, ideal for static projects.
 
 ```
 /
@@ -42,26 +42,26 @@ A organização dos arquivos segue uma abordagem simples e direta, ideal para pr
     └── ...
 ```
 
-## 🖥️ Como Executar Localmente
+## 🖥️ How to Run Locally
 
-Para clonar e executar este projeto em sua máquina local, siga os passos abaixo.
+To clone and run this project on your local machine, follow the steps below.
 
-1.  **Clone o repositório:**
+1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/gabriel-wav/sitesapatos.git](https://github.com/gabriel-wav/sitesapatos.git)
     ```
 
-2.  **Navegue até o diretório do projeto:**
+2.  **Navigate to the project directory:**
     ```bash
     cd sitesapatos
     ```
 
-3.  **Abra o arquivo `index.html` no seu navegador.**
-    * É recomendado utilizar uma extensão como o **Live Server** no Visual Studio Code para uma melhor experiência de desenvolvimento.
+3.  **Open the `index.html` file in your browser.**
+    * It is recommended to use an extension like **Live Server** in Visual Studio Code for a better development experience.
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Authors
 
 * **Gabriel Fernandes** - [@gabriel-wav](https://github.com/gabriel-wav)
 * **Danilo Gutierre** - [@danilinhotj187](https://github.com/danilinhotj187)
