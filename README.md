@@ -2,8 +2,6 @@
 
 This is a front-end project that simulates a static website for a fictional shoe store, "Arnaldo's Shoe Store". The project was developed using only pure HTML5 and CSS3, with a focus on semantic structure, style componentization, and responsiveness.
 
-**🚀 Access the live demo:** [**https://gabriel-wav.github.io/sitesapatos/**](https://gabriel-wav.github.io/sitesapatos/)
-
 ---
 
 ## ✨ Features
@@ -31,15 +29,25 @@ This project was built from scratch, without the use of CSS or JavaScript framew
 The file organization follows a simple and straightforward approach, ideal for static projects.
 
 ```
-/
-├── 📄 index.html
-├── 📄 produtos.html
-├── 📄 sobre.html
-├── 📄 contatos.html
-├── 🎨 style.css
-├── 🎨 reset.css
-└── 🖼️ imagens/
-    └── ...
+arnaldo-shoes-static-site/
+│
+├── assets/                  # Shared application resources
+│   ├── css/                 # Styling and visual identity
+│   │   ├── reset.css        # Normalization of global browser styles
+│   │   └── style.css        # Customized and responsive style sheet
+│   │
+│   └── img/                 # Media asset collection and project images
+│       ├── atendimento.jpg
+│       ├── clientesatisfeitos.jpg
+│       └── ...
+│
+├── pages/                   # Structured internal pages
+│   ├── contatos.html        # Customer service contact form
+│   ├── produtos.html        # Footwear catalog
+│   └── sobre.html           # History and mission of the shoe store
+│
+├── index.html               # Entry point (Main Landing Page)
+└── README.md                # Project technical documentation
 ```
 
 ## 🖥️ How to Run Locally
@@ -64,6 +72,3 @@ To clone and run this project on your local machine, follow the steps below.
 ## 👨‍💻 Authors
 
 * **Gabriel Fernandes** - [@gabriel-wav](https://github.com/gabriel-wav)
-* **Danilo Gutierre** - [@danilinhotj187](https://github.com/danilinhotj187)
-* **Pedro Henrique** - [@pedroH901](https://github.com/pedroH901)
-* **Antônio Ferreira** - [@Antoniojferreira3](https://github.com/Antoniojferreira3)
