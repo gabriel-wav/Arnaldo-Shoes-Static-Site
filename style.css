@@ -249,6 +249,8 @@ footer {
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-sizing: border-box; /* Garante que o padding não aumente a largura total */
+
 }
 
 .contact-container h1 {
@@ -327,5 +329,9 @@ footer {
 
     .info-card {
         width: 90%;
+    }
+
+    .contact-container {
+        padding: 20px;
     }
 }
